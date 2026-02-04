@@ -1,4 +1,4 @@
-# Charte pour la légitimité démocratique des systèmes numériques
+# Charte pour la légitimité démocratique des systèmes numériques publics et d'intérêt général
 
 ## LE CODE VAUT LOI
 
@@ -29,7 +29,7 @@ Les institutions européennes et nationales déploient des systèmes numériques
 
 Cette confiance ne peut être accordée par décret, ni imposée par la loi. Elle se mérite par la transparence, se vérifie par l'audit, et se maintient par la preuve.
 
-La présente charte établit les conditions minimales sous lesquelles un système numérique peut prétendre à la légitimité démocratique.
+La présente charte établit les conditions minimales sous lesquelles un système numérique — public ou privé d'intérêt général — peut prétendre à la légitimité démocratique.
 
 ---
 
