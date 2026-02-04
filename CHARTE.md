@@ -1,6 +1,6 @@
-# LE CODE VAUT LOI
+# Charte pour la légitimité démocratique des systèmes numériques
 
-## Charte pour la légitimité démocratique des systèmes numériques
+## LE CODE VAUT LOI
 
 ---
 
@@ -409,6 +409,5 @@ Elle invite les législateurs à traduire ces principes en obligations contraign
 
 ---
 
-*Document rédigé dans la tradition du libéralisme politique français, de Tocqueville à Aron, qui reconnaît que la liberté ne se préserve que par la vigilance institutionnelle et le refus de l'arbitraire, fût-il technologique.*
 
-*Contributeurs (à compléter) : Jérôme Bourreau-Guggenheim*
+*Auteurs (à compléter) : Jérôme Bourreau-Guggenheim*
