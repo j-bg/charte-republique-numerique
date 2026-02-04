@@ -1,9 +1,9 @@
-# Charte pour la légitimité démocratique des systèmes numériques
+# Charte pour la légitimité démocratique des systèmes numériques publics et d'intérêt général
 Le code vaut loi
 
 ## Présentation
 
-Ce projet porte une charte établissant les conditions minimales sous lesquelles un système numérique peut prétendre à la légitimité démocratique. Elle s'adresse aux législateurs, juridictions, et citoyens qui souhaitent défendre la transparence et la redevabilité des systèmes numériques publics.
+Ce projet porte une charte établissant les conditions minimales sous lesquelles un système numérique peut prétendre à la légitimité démocratique. Elle s'applique aux systèmes déployés par les administrations publiques, ainsi qu'aux systèmes privés lorsqu'ils exercent une mission d'intérêt général ou sont rendus obligatoires par la loi. Elle s'adresse aux législateurs, aux juridictions et aux citoyens qui souhaitent défendre la transparence et la redevabilité de ces systèmes.
 
 **[Lire la Charte](CHARTE.md)**
 
